@@ -1,3 +1,6 @@
+// FIXME: Resolver dependencias UNIX -> WINDOWS
+
+
 #! /usr/bin/env bash
 
 set -euo pipefail

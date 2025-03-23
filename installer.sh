@@ -1,3 +1,5 @@
+// FIXME: Resolver dependencias UNIX -> WINDOWS
+
 #!/usr/bin/env bash
 
 ## Clone the repo

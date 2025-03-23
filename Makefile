@@ -1,3 +1,5 @@
+// FIXME: Resolver dependencias UNIX -> WINDOWS
+
 PREFIX ?= /usr/local
 EXEC_PREFIX ?= $(PREFIX)
 BINDIR ?= $(EXEC_PREFIX)/bin
